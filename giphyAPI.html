@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Console Logging GIPHY</title>
+</head> 
+<body>
+<!-- no NTML needed -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <script type="text/javascript">
+
+  var queryURL = "http://api.giphy.com/v1/gifs/search?q=mad+max&api_key=dc6zaTOxFJmzC";
+// This is our AJAX request, type of method GET, sent to server
+    $.ajax({url:queryURL,method: 'GET'})
+    // After we get a response from the server, we run a function which returns a response
+    .done(function(response){
+      console.log(response);
+    })
+  
+  </script>
+
+</body>
+
+</html>
