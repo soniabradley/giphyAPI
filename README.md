@@ -1,6 +1,6 @@
 # giphyAPI
 # Access and API Keys
-https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif
+[GIF search engine](/Users/soniamolinabradley/Desktop/Screen Shot 2018-01-06 at 8.41.38 AM.png)
 * [GiphyAPI](https://giphy.api-docs.io/1.0/welcome/access-and-api-keys)
 * The public beta key is "dc6zaTOxFJmzC” for this assignment
 * [Search Endpoint](http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC)
