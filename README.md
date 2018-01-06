@@ -1,5 +1,6 @@
 # giphyAPI
-This application will access features of the world's largest and most powerful GIF library and console logging response that we get from the API.
+This application will access features from a large GIF library.  The response that we get from the GIF API will show in the Console only.
+
 ![alt text](APIScreenShot.png)
 # Access and API Keys
 * [GiphyAPI](https://giphy.api-docs.io/1.0/welcome/access-and-api-keys)
