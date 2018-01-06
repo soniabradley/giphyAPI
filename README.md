@@ -1,6 +1,6 @@
 # giphyAPI
 # Access and API Keys
-![alt text](screenshots/filename.png "APIScreenShot.png)
+![alt text](APIScreenShot.png)
 
 * [GiphyAPI](https://giphy.api-docs.io/1.0/welcome/access-and-api-keys)
 * The public beta key is "dc6zaTOxFJmzC” for this assignment
