@@ -1,5 +1,6 @@
 # giphyAPI
 # Access and API Keys
+https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif
 * [GiphyAPI](https://giphy.api-docs.io/1.0/welcome/access-and-api-keys)
 * The public beta key is "dc6zaTOxFJmzC” for this assignment
 * [Search Endpoint](http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC)
