@@ -1,4 +1,5 @@
 # giphyAPI
+This application will access features of the world's largest and most powerful GIF library and console logging response that we get from the API.
 ![alt text](APIScreenShot.png)
 # Access and API Keys
 * [GiphyAPI](https://giphy.api-docs.io/1.0/welcome/access-and-api-keys)
@@ -15,5 +16,8 @@
 #  Built With
 * [jQuery.ajax()](api.jquery.com/jquery.ajax/)
 * [GET method](http://api.jquery.com/get/)
+
+# Author
+Sonia Molina Bradley
 
 
